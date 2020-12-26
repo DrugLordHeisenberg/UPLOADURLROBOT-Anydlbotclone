@@ -37,7 +37,7 @@ Daily limit: UNLIMITED
 
 ### Installation
 
-#### The Easiest Way
+#### The Easiest Way, that might cost you a bit😜
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
