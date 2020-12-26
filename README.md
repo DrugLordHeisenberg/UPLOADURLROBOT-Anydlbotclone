@@ -41,6 +41,6 @@ Daily limit: UNLIMITED
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
-#### The Easy Way
+#### THE EASY WAY
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DrugLordHeisenberg/UPLOADURLROBOT-Anydlbotclone/)
