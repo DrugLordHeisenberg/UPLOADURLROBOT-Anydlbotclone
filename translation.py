@@ -41,10 +41,10 @@ Expires on: 31/12/2021"""
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   SSVideo - Give File as video with Screenshots
+   SSFile  - Give File with Screenshots
+   NOssVideo  - Give File as video without Screenshots
+   NOssFile  - Give File without Screenshots
    
 <b>👉 Join For Our Channel For More Cool Stuff :</b> 👉 <a href="https://telegram.me/SupremeExploit">JOIN</a>
 
