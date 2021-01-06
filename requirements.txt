@@ -5,7 +5,7 @@ git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
 Pillow
-https://github.com/pyrogram/pyrogram/blob/master/pyrogram/sync.py
+https://github.com/pyrogram/pyrogram/blob/master/pyrogram/syncer.py
 requests
 tgcrypto
 youtube-dl
