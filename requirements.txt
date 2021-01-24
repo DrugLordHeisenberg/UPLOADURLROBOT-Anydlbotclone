@@ -8,5 +8,6 @@ Pillow
 https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
 requests
 tgcrypto
-youtube-dl
+#youtube-dl
+git+https://github.com/TGExplore/youtube-dl.git
 pydrive
